@@ -1,70 +1,76 @@
-<h1 align="center">Hi 👋, I'm Ashish Reddy</h1>
-<h3 align="center">Full Stack Developer | MERN | React | Node | Docker</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey there! 👋 I'm Ashish Reddy</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | React ⚛️ | Node ⚙️ | Docker 🐳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshishReddy03&label=Profile%20views&color=0e75b6&style=flat" alt="AshishReddy03" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Passionate+Full+Stack+Developer;Building+scalable+web+apps+with+MERN;Loves+clean+UI+%2B+solid+backend+architecture" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshishReddy03&label=Profile+Views&color=0e75b6&style=flat" alt="AshishReddy03" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🔥 About Me
 
-- 🔭 I’m currently building a **MERN Stack Auth + Chat App**
-- 🌱 Learning advanced **Node.js**, **WebSockets**, and **Docker**
-- 👯 I’m looking to collaborate on **open-source MERN or tool-based projects**
-- 💬 Ask me about **React, Express, MongoDB, or Docker**
-- 📫 Reach me at: `ashishreddy@example.com`
-- 🌐 Portfolio: [portfolio.vercel.app](https://portfolio-ruby-seven-wpprw3w7az.vercel.app)
+- 🔭 Currently building a **MERN Auth + Realtime Chat App**
+- 🛠 Exploring **WebSockets, Resend API, Docker, and Server Security**
+- 💡 Always improving my **DevOps & full-stack deployment** skills
+- 👯 Looking to contribute to **Open Source** and impactful projects
+- 🎯 Goal: Become a well-rounded **Product Engineer**
+- 🧠 Fun fact: I love building slick UI with **React Animations**
 
----
-
-### 🧠 Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+📫 Reach Me:  
+[🌐 Portfolio](https://portfolio-ruby-seven-wpprw3w7az.vercel.app) • `ashishreddy@example.com`
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,js,html,css,git,github,vscode,vercel" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishReddy03&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishReddy03&theme=radical&hide_border=true&border_radius=10" width="49%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishReddy03&layout=compact&theme=radical&hide_border=true&border_radius=10" width="45%" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔐 [MERN Auth & Chat App](https://github.com/AshishReddy03/Chat_Mern) | Full auth system with JWT, OTP verification, and WebSocket chat | MERN, Socket.IO, Resend |
+| 💼 [Portfolio Website](https://portfolio-ruby-seven-wpprw3w7az.vercel.app) | Animated portfolio with custom React Hero + Lottie | React, CSS, Framer Motion |
+| 🐳 [Dockerized MERN App](https://github.com/AshishReddy03/docker-mern-app) *(if applicable)* | Full MERN app with Mongo/Express containers | Docker, Node, React |
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishReddy03&show_icons=true&theme=radical" alt="Ashish's GitHub Stats"/>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
 </p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishReddy03&theme=radical" alt="Ashish's GitHub Streak"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishReddy03&layout=compact&theme=radical" alt="Ashish's Top Languages"/>
-</p>
-
----
-
-### 🧪 Highlight Projects
-
-- 🔐 [MERN Auth & Chat App](https://github.com/AshishReddy03/Chat_Mern)  
-  `Authentication + Realtime Messaging with WebSockets`
-
-- 💻 [React Portfolio Website](https://portfolio-ruby-seven-wpprw3w7az.vercel.app)  
-  `Animated personal portfolio with Hero effects and responsive design`
-
-- 🐳 [Dockerized MERN App](https://github.com/AshishReddy03/docker-mern-app) *(if applicable)*  
-  `Using MongoDB & Express containers with React frontend`
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-profile)](https://linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/your-profile)](https://instagram.com/your-profile)
-[![Twitter](https://img.shields.io/badge/-X-black?style=flat-square&logo=X&logoColor=white)](https://x.com/your-profile)
-
----
-
-⭐️ From [AshishReddy03](https://github.com/AshishReddy03)
